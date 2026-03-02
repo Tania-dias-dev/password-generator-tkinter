@@ -21,5 +21,5 @@ It was created in an **educational context** as part of learning programming and
 
 ## How to Run
 1. Open the `password_generator.py` file in your IDE or Python terminal
-2. Run the script (`gerador passwords.py`)
+2. Run the script (`gerador de passwords.py`)
 4. The password generator GUI will appear
